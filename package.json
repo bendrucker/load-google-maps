@@ -1,7 +1,7 @@
 {
   "name": "load-google-maps",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Load the Google Maps JS API",
   "license": "MIT",
   "repository": "bendrucker/load-google-maps",
