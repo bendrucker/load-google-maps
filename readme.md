@@ -49,7 +49,7 @@ A callback called with the Google Maps library once loaded.
 
 ## See Also
 
-* [load-script-globa](https://github.com/bendrucker/load-script-global)
+* [load-script-global](https://github.com/bendrucker/load-script-global)
 
 ## License
 
