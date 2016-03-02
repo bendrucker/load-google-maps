@@ -1,0 +1,38 @@
+{
+  "name": "load-google-maps",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Load the Google Maps JS API",
+  "license": "MIT",
+  "repository": "bendrucker/load-google-maps",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "js",
+    "api"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.4",
+    "standard": "^5.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "load-script-global": "~1.0.0",
+    "obstruction": "~2.0.0",
+    "query-string": "~3.0.1",
+    "url-set-query": "~1.0.0",
+    "value-pipe": "~1.0.0"
+  }
+}
