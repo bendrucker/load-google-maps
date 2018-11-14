@@ -17,7 +17,7 @@ test(function (t) {
     }
   })
 
-  Google({libraries: ['places']}, function (err, google) {
+  Google({ libraries: ['places'] }, function (err, google) {
     if (err) return t.end(err)
     t.ok(google)
   })
