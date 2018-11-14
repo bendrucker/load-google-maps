@@ -1,4 +1,4 @@
-# load-google-maps [![Build Status](https://travis-ci.org/bendrucker/load-google-maps.svg?branch=master)](https://travis-ci.org/bendrucker/load-google-maps)
+# load-google-maps [![Build Status](https://travis-ci.org/bendrucker/load-google-maps.svg?branch=master)](https://travis-ci.org/bendrucker/load-google-maps) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/load-google-maps.svg)](https://greenkeeper.io/)
 
 > Load the Google Maps JS API
 
